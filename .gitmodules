@@ -1,0 +1,6 @@
+[submodule "git-y-github"]
+	path = informatica/git-y-github
+	url = git@github.com:MrDonkey08/git-y-github.git
+[submodule "terminal-y-linea-de-comandos"]
+	path = linux/terminal-y-linea-de-comandos
+	url = git@github.com:MrDonkey08/terminal-y-linea-de-comandos
